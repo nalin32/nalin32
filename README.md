@@ -1,6 +1,6 @@
 # Welcome to my Code Dojo! 🎮🏋️‍♂️
 
-Hey, I'm @nalin32, a computer science student delving into the realms of Scala, JavaScript, Python, and Java. When I'm not letting my fingers dance across the keyboard, you'll likely find me battling epic foes in the world of video games or in the gym, where I code for my muscles! Oh, and I can philosophize about anime for hours! 😄
+Hey, I'm @nalin32, a computer science student delving into the realms of Python, JavaScript, Python, Java, SQL. When I'm not letting my fingers dance across the keyboard, you'll likely find me battling epic foes in the world of video games or in the gym, where I code for my muscles! Oh, and I can philosophize about anime for hours! 😄
 
 ## About Me 🚀
 
