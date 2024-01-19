@@ -4,23 +4,23 @@ Hey, I'm @nalin32, a computer science student delving into the realms of Scala, 
 
 ## About Me 🚀
 
-- 💻 Currently mastering Scala, JavaScript, Python, and Java
+- 💻 Currently mastering Python, JavaScript, Java, SQL
 - 🎮 Passionate gamer
 - 🏋️‍♂️ Fitness fanatic
 - 🌸 Anime lover
 
 ## My Superpowers 💪
 
-```scala
-val codingSkills = List("Scala", "JavaScript", "Python", "Java")
-val gamingSkills = "Mastering boss battles and achieving high scores"
-val fitnessSkills = "Completing deadlifts, squats, and crunches in record time"
-val animeWisdom = "The power of friendship above all!"
+```python
+codingSkills = ["Python", "JavaScript", "Java", "SQL"]
+gamingSkills = "Mastering boss battles and achieving high scores"
+fitnessSkills = "Completing deadlifts, squats, and crunches in record time"
+animeWisdom = "The power of friendship above all!"
 
-def aboutMe(): Unit = {
-  println("I'm the Code Ninja battling in the world of bits and bytes.")
-  println("My dojo is the code editor, and my weapons are the programming languages.")
-  println("With the energy of the gym and the creativity of anime, I shape the digital world!")
-}
+def aboutMe():
+  print("I'm the Code Ninja battling in the world of bits and bytes.")
+  print("My dojo is the code editor, and my weapons are the programming languages.")
+  print("With the energy of the gym and the creativity of anime, I shape the digital world!")
+
 
 aboutMe()
